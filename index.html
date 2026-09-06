@@ -237,8 +237,16 @@
         }
         .footer-links a:hover { color: var(--primary); }
         @media (max-width: 640px) {
-            h1 { font-size: 1.75rem; }
-            .nav-links { display: none; }
+            h1 { font-size: 1.75rem; word-break: break-word; }
+            .nav-container { flex-direction: column; gap: 12px; align-items: flex-start; }
+            .nav-links { display: flex; flex-wrap: nowrap; overflow-x: auto; max-width: 100%; -webkit-overflow-scrolling: touch; gap: 8px; padding-bottom: 4px; width: 100%; }
+            .nav-links a { white-space: nowrap; font-size: 0.82rem; padding: 5px 10px; background: rgba(255,255,255,0.06); border-radius: 6px; border: 1px solid var(--border); }
+        }
+        @media (max-width: 375px) {
+            h1 { font-size: 1.55rem; }
+            .nav-brand { font-size: 1rem; }
+            .hero h1 { font-size: 1.85rem; }
+            .hero p.sub { font-size: 0.98rem; }
         }
         .hero {
             text-align: center;
