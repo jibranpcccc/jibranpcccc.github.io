@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "publisher": "Jibran Ayub",
   "profile": "https://github.com/jibranpcccc",
-  "total_tools": 20,
+  "total_tools": 21,
   "tools": [
     {
       "id": "site-1",
@@ -262,6 +262,19 @@
       "directory_profile": "https://jibranpcccc.github.io/tools/site-9-founderrunway.html",
       "pdf_cheatsheet": "https://site-9-inky.vercel.app/benchmark-cheatsheet.pdf",
       "rss_feed": "https://site-9-inky.vercel.app/rss.xml",
+      "open_source": true,
+      "license": "MIT"
+    },
+    {
+      "id": "calculatorpensie",
+      "name": "CalculatorPensie",
+      "url": "https://calculatorpensie.com/",
+      "niche": "Romanian State Pension Statutory Calculator (Legea 360/2023)",
+      "github_repo": "https://github.com/jibranpcccc/calculator-pensie-romania",
+      "github_issue": "https://github.com/jibranpcccc/calculator-pensie-romania/issues/1",
+      "directory_profile": "https://jibranpcccc.github.io/tools/calculatorpensie.html",
+      "pdf_cheatsheet": "https://calculatorpensie.com/ghid-calcul-pensie-2026.pdf",
+      "rss_feed": "https://calculatorpensie.com/rss.xml",
       "open_source": true,
       "license": "MIT"
     }
