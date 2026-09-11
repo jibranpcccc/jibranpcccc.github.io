@@ -1,0 +1,14 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "service": "OpenCRMStack",
+  "site_id": "site-17",
+  "category": "Open Source CRM & Migration",
+  "official_url": "https://opencrmstack.pages.dev/",
+  "api_endpoint": "https://opencrmstack.pages.dev/api/v1/tco-calculator",
+  "documentation": "https://opencrmstack.pages.dev/benchmarks/site-17.html",
+  "version": "1.1.0",
+  "status": "operational",
+  "verified_da": 96,
+  "cdn_provider": "Fastly Anycast Global CDN",
+  "updated_at": "2026-09-11T11:06:05.343855Z"
+}
