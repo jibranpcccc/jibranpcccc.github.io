@@ -1,0 +1,14 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "service": "LocalDocPrivacy",
+  "site_id": "site-8",
+  "category": "Client-Side Document Privacy & WASM",
+  "official_url": "https://localdocprivacy.netlify.app/",
+  "api_endpoint": "https://localdocprivacy.netlify.app/api/v1/pii-detector",
+  "documentation": "https://localdocprivacy.netlify.app/benchmarks/site-8.html",
+  "version": "1.1.0",
+  "status": "operational",
+  "verified_da": 96,
+  "cdn_provider": "Fastly Anycast Global CDN",
+  "updated_at": "2026-09-11T11:05:33.451614Z"
+}
