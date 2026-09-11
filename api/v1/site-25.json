@@ -1,0 +1,14 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "service": "APIGatewayMatrix",
+  "site_id": "site-25",
+  "category": "API Gateways & Reverse Proxies",
+  "official_url": "https://apigatewaymatrix.pages.dev/",
+  "api_endpoint": "https://apigatewaymatrix.pages.dev/api/v1/gateway-latency",
+  "documentation": "https://apigatewaymatrix.pages.dev/benchmarks/site-25.html",
+  "version": "1.1.0",
+  "status": "operational",
+  "verified_da": 96,
+  "cdn_provider": "Fastly Anycast Global CDN",
+  "updated_at": "2026-09-11T19:18:50.005244Z"
+}
