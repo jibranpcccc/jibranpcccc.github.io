@@ -1,0 +1,14 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "service": "OpenTelemetryLab",
+  "site_id": "site-23",
+  "category": "Observability & OpenTelemetry Collector",
+  "official_url": "https://opentelemetrylab.pages.dev/",
+  "api_endpoint": "https://opentelemetrylab.pages.dev/api/v1/tail-sampling",
+  "documentation": "https://opentelemetrylab.pages.dev/benchmarks/site-23.html",
+  "version": "1.1.0",
+  "status": "operational",
+  "verified_da": 96,
+  "cdn_provider": "Fastly Anycast Global CDN",
+  "updated_at": "2026-09-11T19:18:43.481168Z"
+}
