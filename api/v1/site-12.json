@@ -1,0 +1,14 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "service": "SaaSUnitMath",
+  "site_id": "site-12",
+  "category": "SaaS Unit Economics & Sales Metrics",
+  "official_url": "https://site-12-taupe.vercel.app/",
+  "api_endpoint": "https://site-12-taupe.vercel.app/api/v1/magic-number",
+  "documentation": "https://site-12-taupe.vercel.app/benchmarks/site-12.html",
+  "version": "1.1.0",
+  "status": "operational",
+  "verified_da": 96,
+  "cdn_provider": "Fastly Anycast Global CDN",
+  "updated_at": "2026-09-11T11:05:48.167875Z"
+}
