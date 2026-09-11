@@ -1,0 +1,14 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "service": "VectorBench",
+  "site_id": "site-5",
+  "category": "Vector Databases & Semantic Search",
+  "official_url": "https://vectorbench-hq.netlify.app/",
+  "api_endpoint": "https://vectorbench-hq.netlify.app/api/v1/index-sizer",
+  "documentation": "https://vectorbench-hq.netlify.app/benchmarks/site-5.html",
+  "version": "1.1.0",
+  "status": "operational",
+  "verified_da": 96,
+  "cdn_provider": "Fastly Anycast Global CDN",
+  "updated_at": "2026-09-11T11:05:23.192691Z"
+}
