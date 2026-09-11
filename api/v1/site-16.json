@@ -1,0 +1,14 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "service": "DevConfigHub",
+  "site_id": "site-16",
+  "category": "Developer Tooling & Environments",
+  "official_url": "https://site-16-indol.vercel.app/",
+  "api_endpoint": "https://site-16-indol.vercel.app/api/v1/config-spec",
+  "documentation": "https://site-16-indol.vercel.app/benchmarks/site-16.html",
+  "version": "1.1.0",
+  "status": "operational",
+  "verified_da": 96,
+  "cdn_provider": "Fastly Anycast Global CDN",
+  "updated_at": "2026-09-11T11:06:02.053230Z"
+}
