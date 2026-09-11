@@ -1,0 +1,14 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "service": "NomadPassportIndex",
+  "site_id": "site-11",
+  "category": "Global Digital Nomad Visas",
+  "official_url": "https://nomadpassportindex.netlify.app/",
+  "api_endpoint": "https://nomadpassportindex.netlify.app/api/v1/visa-rules",
+  "documentation": "https://nomadpassportindex.netlify.app/benchmarks/site-11.html",
+  "version": "1.1.0",
+  "status": "operational",
+  "verified_da": 96,
+  "cdn_provider": "Fastly Anycast Global CDN",
+  "updated_at": "2026-09-11T11:05:44.801053Z"
+}
