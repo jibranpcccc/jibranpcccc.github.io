@@ -1,0 +1,14 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "service": "EORCalculator",
+  "site_id": "site-15",
+  "category": "Global Employer of Record & Payroll",
+  "official_url": "https://site-15-ruby.vercel.app/",
+  "api_endpoint": "https://site-15-ruby.vercel.app/api/v1/eor-pricing",
+  "documentation": "https://site-15-ruby.vercel.app/benchmarks/site-15.html",
+  "version": "1.1.0",
+  "status": "operational",
+  "verified_da": 96,
+  "cdn_provider": "Fastly Anycast Global CDN",
+  "updated_at": "2026-09-11T11:05:58.421482Z"
+}
