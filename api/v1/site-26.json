@@ -1,0 +1,14 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "service": "S3EgressAudit",
+  "site_id": "site-26",
+  "category": "Cloud Storage & Egress Economics",
+  "official_url": "https://s3egressaudit.pages.dev/",
+  "api_endpoint": "https://s3egressaudit.pages.dev/api/v1/egress-calc",
+  "documentation": "https://s3egressaudit.pages.dev/benchmarks/site-26.html",
+  "version": "1.1.0",
+  "status": "operational",
+  "verified_da": 96,
+  "cdn_provider": "Fastly Anycast Global CDN",
+  "updated_at": "2026-09-11T19:18:53.535982Z"
+}
