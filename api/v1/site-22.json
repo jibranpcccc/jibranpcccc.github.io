@@ -1,0 +1,14 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "service": "QueueCost",
+  "site_id": "site-22",
+  "category": "Background Queues & Message Brokers",
+  "official_url": "https://queuecost.pages.dev/",
+  "api_endpoint": "https://queuecost.pages.dev/api/v1/worker-sizer",
+  "documentation": "https://queuecost.pages.dev/benchmarks/site-22.html",
+  "version": "1.1.0",
+  "status": "operational",
+  "verified_da": 96,
+  "cdn_provider": "Fastly Anycast Global CDN",
+  "updated_at": "2026-09-11T19:18:40.239192Z"
+}
