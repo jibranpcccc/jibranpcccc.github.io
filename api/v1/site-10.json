@@ -1,0 +1,14 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "service": "RAGInspect",
+  "site_id": "site-10",
+  "category": "RAG Chunking & Multimodal Document AI",
+  "official_url": "https://raginspect.pages.dev/",
+  "api_endpoint": "https://raginspect.pages.dev/api/v1/rag-eval",
+  "documentation": "https://raginspect.pages.dev/benchmarks/site-10.html",
+  "version": "1.1.0",
+  "status": "operational",
+  "verified_da": 96,
+  "cdn_provider": "Fastly Anycast Global CDN",
+  "updated_at": "2026-09-11T11:05:41.351107Z"
+}
