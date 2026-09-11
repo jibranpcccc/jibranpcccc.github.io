@@ -1,0 +1,14 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "service": "IndieStackAudit",
+  "site_id": "site-4",
+  "category": "SaaS Infrastructure & Cloud Billing",
+  "official_url": "https://indiestackaudit.pages.dev/",
+  "api_endpoint": "https://indiestackaudit.pages.dev/api/v1/bandwidth-audit",
+  "documentation": "https://indiestackaudit.pages.dev/benchmarks/site-4.html",
+  "version": "1.1.0",
+  "status": "operational",
+  "verified_da": 96,
+  "cdn_provider": "Fastly Anycast Global CDN",
+  "updated_at": "2026-09-11T11:05:19.757767Z"
+}
