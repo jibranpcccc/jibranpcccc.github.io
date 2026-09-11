@@ -1,0 +1,14 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "service": "NomadTreaty",
+  "site_id": "site-6",
+  "category": "Nomad Taxation & Double Tax Treaties",
+  "official_url": "https://nomadtreaty.vercel.app/",
+  "api_endpoint": "https://nomadtreaty.vercel.app/api/v1/tax-model",
+  "documentation": "https://nomadtreaty.vercel.app/benchmarks/site-6.html",
+  "version": "1.1.0",
+  "status": "operational",
+  "verified_da": 96,
+  "cdn_provider": "Fastly Anycast Global CDN",
+  "updated_at": "2026-09-11T11:05:26.593515Z"
+}
