@@ -1,0 +1,14 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "service": "GrokLogTester",
+  "site_id": "site-13",
+  "category": "Log Parsing & Grok Regex Extractor",
+  "official_url": "https://groklogtester.pages.dev/",
+  "api_endpoint": "https://groklogtester.pages.dev/api/v1/parse-log",
+  "documentation": "https://groklogtester.pages.dev/benchmarks/site-13.html",
+  "version": "1.1.0",
+  "status": "operational",
+  "verified_da": 96,
+  "cdn_provider": "Fastly Anycast Global CDN",
+  "updated_at": "2026-09-11T11:05:51.533373Z"
+}
