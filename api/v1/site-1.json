@@ -1,0 +1,14 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "service": "LocalAgentStack",
+  "site_id": "site-1",
+  "category": "AI Hardware & Local Inference",
+  "official_url": "https://jibranpcccc.github.io/digitalcreatoravi-seo-engine/",
+  "api_endpoint": "https://jibranpcccc.github.io/digitalcreatoravi-seo-engine/api/v1/vram-calculator",
+  "documentation": "https://jibranpcccc.github.io/digitalcreatoravi-seo-engine/benchmarks/site-1.html",
+  "version": "1.1.0",
+  "status": "operational",
+  "verified_da": 96,
+  "cdn_provider": "Fastly Anycast Global CDN",
+  "updated_at": "2026-09-11T11:05:09.449819Z"
+}
