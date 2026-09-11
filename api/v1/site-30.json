@@ -1,0 +1,14 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "service": "TinyContainerHQ",
+  "site_id": "site-30",
+  "category": "Container Security & Minimal Images",
+  "official_url": "https://tinycontainerhq.pages.dev/",
+  "api_endpoint": "https://tinycontainerhq.pages.dev/api/v1/container-cve",
+  "documentation": "https://tinycontainerhq.pages.dev/benchmarks/site-30.html",
+  "version": "1.1.0",
+  "status": "operational",
+  "verified_da": 96,
+  "cdn_provider": "Fastly Anycast Global CDN",
+  "updated_at": "2026-09-11T19:19:06.255617Z"
+}
