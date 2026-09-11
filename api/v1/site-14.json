@@ -1,0 +1,14 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "service": "SOC2Ready",
+  "site_id": "site-14",
+  "category": "B2B SaaS SOC 2 Compliance",
+  "official_url": "https://site-14-sable.vercel.app/",
+  "api_endpoint": "https://site-14-sable.vercel.app/api/v1/access-review",
+  "documentation": "https://site-14-sable.vercel.app/benchmarks/site-14.html",
+  "version": "1.1.0",
+  "status": "operational",
+  "verified_da": 96,
+  "cdn_provider": "Fastly Anycast Global CDN",
+  "updated_at": "2026-09-11T11:05:55.176705Z"
+}
