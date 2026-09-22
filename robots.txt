@@ -29,3 +29,4 @@ User-agent: CCBot
 Allow: /
 
 Sitemap: https://jibranpcccc.github.io/sitemap.xml
+Sitemap: https://jibranpcccc.github.io/sitemap-index.xml
