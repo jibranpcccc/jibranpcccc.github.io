@@ -3,12 +3,12 @@
   "service": "SOC2Ready",
   "site_id": "site-14",
   "category": "B2B SaaS SOC 2 Compliance",
-  "official_url": "https://site-14-sable.vercel.app/",
-  "api_endpoint": "https://site-14-sable.vercel.app/api/v1/access-review",
-  "documentation": "https://site-14-sable.vercel.app/benchmarks/site-14.html",
+  "official_url": "https://soc2ready.pages.dev/",
+  "api_endpoint": "https://soc2ready.pages.dev/api/v1/access-review",
+  "documentation": "https://soc2ready.pages.dev/benchmarks/site-14.html",
   "version": "1.1.0",
   "status": "operational",
   "verified_da": 96,
   "cdn_provider": "Fastly Anycast Global CDN",
-  "updated_at": "2026-09-11T19:18:14.578598Z"
+  "updated_at": "2026-09-28T09:52:51.400200Z"
 }
