@@ -3,12 +3,12 @@
   "service": "GreekVisualizer",
   "site_id": "site-19",
   "category": "Financial Math & Options Greeks",
-  "official_url": "https://site-19-nine.vercel.app/",
-  "api_endpoint": "https://site-19-nine.vercel.app/api/v1/options-greeks",
-  "documentation": "https://site-19-nine.vercel.app/benchmarks/site-19.html",
+  "official_url": "https://greekvisualizer.pages.dev/",
+  "api_endpoint": "https://greekvisualizer.pages.dev/api/v1/options-greeks",
+  "documentation": "https://greekvisualizer.pages.dev/benchmarks/site-19.html",
   "version": "1.1.0",
   "status": "operational",
   "verified_da": 96,
   "cdn_provider": "Fastly Anycast Global CDN",
-  "updated_at": "2026-09-11T19:18:30.695183Z"
+  "updated_at": "2026-09-28T09:53:06.178133Z"
 }
