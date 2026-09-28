@@ -3,12 +3,12 @@
   "service": "NomadTreaty",
   "site_id": "site-6",
   "category": "Nomad Taxation & Double Tax Treaties",
-  "official_url": "https://nomadtreaty.vercel.app/",
-  "api_endpoint": "https://nomadtreaty.vercel.app/api/v1/tax-model",
-  "documentation": "https://nomadtreaty.vercel.app/benchmarks/site-6.html",
+  "official_url": "https://nomadtreaty.pages.dev/",
+  "api_endpoint": "https://nomadtreaty.pages.dev/api/v1/tax-model",
+  "documentation": "https://nomadtreaty.pages.dev/benchmarks/site-6.html",
   "version": "1.1.0",
   "status": "operational",
   "verified_da": 96,
   "cdn_provider": "Fastly Anycast Global CDN",
-  "updated_at": "2026-09-11T19:17:49.342698Z"
+  "updated_at": "2026-09-28T09:52:25.932945Z"
 }
